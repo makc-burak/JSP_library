@@ -1,0 +1,49 @@
+body {
+    background: ghostwhite;
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+    margin: 70px;
+}
+
+.main {
+    width: 800px;
+    height: 570px;
+    background: #ffffff;
+    border: 3px solid #7399dc;
+    margin-left: 20%;
+}
+
+.title_img {
+    text-align: center;
+}
+
+.title {
+    text-align:center;
+    font-weight: bold;
+}
+
+.text {
+    text-align: left;
+    font-size: 14px;
+    margin-left: 50px;
+}
+
+.login {
+    width:350px;
+    border: 1px solid #e0e3ea;
+    margin: 0 auto;
+    padding:10px;
+
+}
+
+.login_form{
+    text-align: center;
+    padding: 20px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    font-family: Ubuntu;
+    font-size: 12px;
+    color: #7399dc;
+}
